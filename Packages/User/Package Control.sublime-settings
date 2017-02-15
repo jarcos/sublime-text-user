@@ -10,10 +10,12 @@
 		"AutoFileName",
 		"Color Highlighter",
 		"Colorsublime",
+		"CSS3",
 		"DocBlockr",
 		"Emmet",
 		"Facebook Material Theme",
 		"Git",
+		"JavaScript Completions",
 		"jQuery",
 		"Markdown Preview",
 		"Material Theme",
@@ -30,6 +32,7 @@
 		"SublimeLinter-phpcs",
 		"SublimeREPL",
 		"Terminal",
-		"View In Browser"
+		"View In Browser",
+		"WordPress"
 	]
 }
