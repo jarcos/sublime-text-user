@@ -1,0 +1,18 @@
+{
+	"phpcs_php_prefix_path": "/usr/local/bin/phpcs",
+	"phpcs_additional_args": {
+	    "--standard": "WordPress",
+	},
+	"phpcs_show_errors_on_save": false,
+	"phpcs_linter_run": false,
+	"phpcs_linter_command_on_save": false,
+	"php_cs_fixer_executable_path": "/usr/local/Cellar/php-cs-fixer/2.3.2/php-cs-fixer",
+	"php_cs_fixer_additional_args": {
+		"--standard": "WordPress",
+	},
+	"phpcbf_on_save": true,
+	"phpcbf_executable_path": "/usr/local/bin/phpcbf",
+	"phpcbf_additional_args": {
+	    "--standard": "WordPress",
+	},
+}
