@@ -15,7 +15,6 @@
 		"Emmet",
 		"Facebook Material Theme",
 		"Git",
-		"JavaScript Completions",
 		"jQuery",
 		"Markdown Preview",
 		"Material Theme",
@@ -32,6 +31,7 @@
 		"SublimeLinter-phpcs",
 		"SublimeREPL",
 		"Terminal",
+		"TerminalView",
 		"View In Browser",
 		"WordPress"
 	]

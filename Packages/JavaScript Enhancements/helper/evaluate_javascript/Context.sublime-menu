@@ -1,0 +1,44 @@
+[
+  { "caption": "-" },
+  {
+    "caption": "Evaluate JavaScript",
+    "children": [
+      {
+        "caption": "Evaluate JavaScript (eval)",
+        "id": "evaluate_javascript_eval",
+        "command": "evaluate_javascript",
+        "args": {
+          "command": ["-e"]
+        }
+      },
+      {
+        "caption": "Evaluate JavaScript (print)",
+        "id": "evaluate_javascript_print",
+        "command": "evaluate_javascript",
+        "args": {
+          "command": ["-p"]
+        }
+      },
+      { "caption": "-" },
+      {
+        "caption": "Evaluate JavaScript on this line (eval)",
+        "id": "evaluate_javascript_line_eval",
+        "command": "evaluate_javascript",
+        "args": {
+          "command": ["-e"],
+          "is_line": true
+        }
+      },
+      {
+        "caption": "Evaluate JavaScript on this line (print)",
+        "id": "evaluate_javascript_line_print",
+        "command": "evaluate_javascript",
+        "args": {
+          "command": ["-e"],
+          "is_line": true
+        }
+      }
+    ]
+  },
+  { "caption": "-" }
+]
