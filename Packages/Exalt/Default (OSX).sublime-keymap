@@ -1,0 +1,18 @@
+[
+  {
+    "keys": ["super+ctrl+x"],
+    "command": "exalt_format"
+  },
+  {
+    "keys": ["super+ctrl+v"],
+    "command": "exalt_validate"
+  },
+  {
+    "keys": ["super+ctrl+e"],
+    "command": "exalt_go_to_error"
+  },
+  {
+    "keys": ["super+ctrl+z"],
+    "command": "exalt_clear_cache"
+  }
+]

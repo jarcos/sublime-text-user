@@ -1,0 +1,1 @@
+{"description": "A Sublime Text 3 plugin for validating and formatting XML and (X)HTML", "sublime_text": ">=3000", "version": "0.3.4", "platforms": ["osx-x64", "linux-x64", "windows-x64", "windows-x32"], "url": "https://github.com/eerohele/exalt", "dependencies": []}

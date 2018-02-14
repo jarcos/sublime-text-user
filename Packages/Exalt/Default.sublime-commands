@@ -1,0 +1,26 @@
+[
+  {
+    "caption": "Exalt: Format Document",
+    "command": "exalt_format_document"
+  },
+  {
+    "caption": "Exalt: Format Selections",
+    "command": "exalt_format_selections"
+  },
+  {
+    "caption": "Exalt: Validate Document",
+    "command": "exalt_validate"
+  },
+  {
+    "caption": "Exalt: Go To Error",
+    "command": "exalt_go_to_error"
+  },
+  {
+    "caption": "Exalt: Clear Parser Cache",
+    "command": "exalt_clear_cache"
+  },
+  {
+    "caption": "Exalt: Canonicalize Document",
+    "command": "exalt_canonicalize_document"
+  }
+]
