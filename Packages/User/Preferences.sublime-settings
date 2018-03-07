@@ -14,8 +14,6 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"SublimeLinter",
-		"SublimeLinter-phpcs",
 		"Vintage"
 	],
 	"indent_guide_options":
